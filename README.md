@@ -10,7 +10,7 @@
 
 
 ##  My fouverite work quipment:
-- ❤ I like JetBrains ToolBox for programming. I using:
+- ❤ I like `JetBrains ToolBox` for programming. I using:
 - ⚙ (JetBrains) [IntelliJ IDEA Ultimate](https://www.jetbrains.com/idea/) -> `Java`.
 - ⚙ (JetBrains) [PHPStorm](https://www.jetbrains.com/phpstorm/) -> `PHP (+ HTML, JS, SCSS/SASS, CSS)`.
 - ⚙ (JetBrains) [Rider](https://www.jetbrains.com/rider/) -> `C#`.
