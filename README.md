@@ -1,4 +1,4 @@
-# 📚 Hello & Hi `I'm Jan Valenta` and my `game nickname` is `Valentak`
+# 📚 Hello & Hi, `i'm Jan Valenta` and my `game nickname` is `Valentak`
 #### I am a 16-year-old student of Information Technology and Programming from the Czech Republic.
 
 - 🔧 I’m `"learning"` programming language -> `Java, PHP` and `little C#`.
