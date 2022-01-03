@@ -3,6 +3,8 @@
 
 - 🔧 I’m `"learning"` programming language -> `Java, PHP` and `little C#`.
 - 📚 I am `"learning" and "speaking" Czech, English and Deutsch`.
+- 💬 `GitHUB` -> https://gitHUB.com/janvalentacz
+- 💬 `GitLAB` -> https://gitLAB.com/janvalentacz
 
 
 ## Previous employments:
@@ -19,9 +21,5 @@
 ## Contact for me:
 - 💬 `Discord` -> Valentak#1111
 - 💬 `Email` -> valentak@valentak.cz
-
-## My public projects is here:
-- 💬 `GitHUB` -> https://gitHUB.com/janvalentacz
-- 💬 `GitLAB` -> https://gitLAB.com/janvalentacz
 
 
