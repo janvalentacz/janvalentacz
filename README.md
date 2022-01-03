@@ -19,6 +19,8 @@
 ## Contact for me:
 - 💬 `Discord` -> Valentak#1111
 - 💬 `Email` -> valentak@valentak.cz
+
+## My public projects is here:
 - 💬 `GitHUB` -> https://gitHUB.com/janvalentacz
 - 💬 `GitLAB` -> https://gitLAB.com/janvalentacz
 
