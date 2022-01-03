@@ -2,7 +2,7 @@
 #### I am a 16-year-old student of Information Technology and Programming from the Czech Republic.
 
 - 🔧 I’m `"learning"` and `"working"` and programming language -> `Java, PHP` and `little C#`.
-- 📚 I’m `"learning" and "speaking" Czech, English and Deutsch`.
+- 📚 I’m `"learning"` and `"speaking"` `Czech, English and Deutsch`.
 - 📑 `GitHUB` -> https://gitHUB.com/janvalentacz
 - 📑 `GitLAB` -> https://gitLAB.com/janvalentacz
 
