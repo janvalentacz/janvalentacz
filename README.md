@@ -1,10 +1,24 @@
-- 👋 Hi, I’m @janvalentacz
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 📚 Hello & Hi `I'm Jan Valenta` and my `game nickname` is `Valentak`
+#### I am a 16-year-old student of Information Technology and Programming from the Czech Republic.
 
-<!---
-janvalentacz/janvalentacz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🔧 I’m `"learning"` programming language -> `Java, PHP` and `little C#`.
+
+
+## Previous employments:
+- 💻 
+
+
+##  My fouverite work quipment:
+- ❤ I like JetBrains ToolBox for programming. I using:
+- ⚙ (JetBrains) [IntelliJ IDEA Ultimate](https://www.jetbrains.com/idea/) -> `Java`
+- ⚙ (JetBrains) [PhPStorm](https://www.jetbrains.com/phpstorm/) -> `PHP (+ HTML, JS, SCSS/SASS, CSS)`
+- ⚙ (JetBrains) [Rider](https://www.jetbrains.com/rider/) -> `C#`
+
+
+## Contact for me:
+- 💬 `Discord` -> Valentak#1111
+- 💬 `Email` -> valentak@valentak.cz
+- 💬 `GitHUB` -> https://gitHUB.com/janvalentacz
+- 💬 `GitLAB` -> https://gitLAB.com/janvalentacz
+
+
