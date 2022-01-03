@@ -5,7 +5,7 @@
 
 
 ## Previous employments:
-- 💻 
+- 💻 Maybe.
 
 
 ##  My fouverite work quipment:
