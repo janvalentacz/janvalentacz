@@ -2,6 +2,7 @@
 #### I am a 16-year-old student of Information Technology and Programming from the Czech Republic.
 
 - 🔧 I’m `"learning"` programming language -> `Java, PHP` and `little C#`.
+- 📄 I am speaking Czech, English and Deutsch
 
 
 ## Previous employments:
