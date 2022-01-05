@@ -1,5 +1,5 @@
 # Hello & Hi, `i'm Jan Valenta` and my `game nickname` is `Valentak`.
-#### I am a 16-year-old student of Information Technology and Programming and `Developer` from the Czech Republic 
+#### I am a 16-year-old student of Information Technology and Programming and too `Developer` from the Czech Republic 
 
 - 🔧 I’m `"learning"` and `"working"` programming language -> `Java, PHP` and `little C#`.
 - 📚 I’m `"learning"` and `"speaking"` `Czech, English and Deutsch`.
@@ -13,9 +13,9 @@
 
 ##  My favourite work equipment:
 - ❤ I like `JetBrains ToolBox` for programming. I using:
-- ⚙ (JetBrains) [IntelliJ IDEA Ultimate](https://www.jetbrains.com/idea/) -> `Java`.
-- ⚙ (JetBrains) [PHPStorm](https://www.jetbrains.com/phpstorm/) -> `PHP (+ HTML, JS, SCSS/SASS, CSS)`.
-- ⚙ (JetBrains) [Rider](https://www.jetbrains.com/rider/) -> `C#`.
+- ⚙ (JetBrains) #[IntelliJ IDEA Ultimate](https://www.jetbrains.com/idea/) -> `Java`.
+- ⚙ (JetBrains) #[PHPStorm](https://www.jetbrains.com/phpstorm/) -> `PHP (+ HTML, JS, SCSS/SASS, CSS)`.
+- ⚙ (JetBrains) #[Rider](https://www.jetbrains.com/rider/) -> `C#`.
 
 
 ## Contact for me:
