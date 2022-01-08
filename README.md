@@ -9,6 +9,7 @@
 ## Current or previous employments:
 Currect employments
 - 💻 Maybe - comming soon..
+
 Previous employments
 - 💻 Maybe - comming soon..
 
