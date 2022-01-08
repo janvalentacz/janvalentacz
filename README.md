@@ -16,8 +16,8 @@ Previous employments
 
 ##  My favourite work equipment:
 I like `JetBrains ToolBox` for programming. I using:
-- ⚙ (JetBrains) [IntelliJ IDEA Ultimate](https://www.jetbrains.com/idea/) -> `Java` for `Web applications` and `Minecraft plugins`.
-- ⚙ (JetBrains) [PHPStorm](https://www.jetbrains.com/phpstorm/) -> `PHP (+ HTML, JS, SCSS/SASS, CSS)` for `Web application or Webs`.
+- ⚙ (JetBrains) [IntelliJ IDEA Ultimate](https://www.jetbrains.com/idea/) -> `Java` 
+- ⚙ (JetBrains) [PHPStorm](https://www.jetbrains.com/phpstorm/) -> `PHP (+ HTML, JS, SCSS/SASS, CSS)`
 - ⚙ (JetBrains) [Rider](https://www.jetbrains.com/rider/) -> `C#` for `ALL`.
 
 ## Contact for me:
