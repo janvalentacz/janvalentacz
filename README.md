@@ -18,7 +18,7 @@ I like `JetBrains ToolBox` for programming. I using:
 - ⚙ (JetBrains) [Rider](https://www.jetbrains.com/rider/) -> `C#` for `ALL`.
 
 Frameworks:
-- Backend: Symfony - PHP, Spring - Java
+- Backend: Symfony - PHP, Spring - Java, .NET / .NET Core - C#
 - Frontend: Vue (Vue.js)
 
 ## Contact for me:
