@@ -17,7 +17,7 @@
 - ⚙ (JetBrains) [PHPStorm](https://www.jetbrains.com/phpstorm/) -> `PHP (+ HTML, JS, SCSS/SASS, CSS)` for `Web application`.
 - ⚙ (JetBrains) [Rider](https://www.jetbrains.com/rider/) -> `C#` for `ALL`.
 
-- Frameworks:
+#Frameworks:
 - Backend: Symfony - PHP, Spring - Java
 - Frontend: Vue (Vue.js)
 
