@@ -7,7 +7,7 @@
 - 📑 `GitLAB` -> https://gitLAB.com/janvalentacz
 
 
-## Current or previous employment:
+## Current or previous employments:
 - 💻 Maybe - comming soon..
 
 
