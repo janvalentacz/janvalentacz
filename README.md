@@ -1,5 +1,5 @@
 # Hello & Hi, `i'm Jan Valenta` and my `game nickname` is `Valentak`.
-#### I am a 16-year-old student of Information Technology and Programming and too `learning Developer` from the Czech Republic 
+#### I am a 16-year-old student of Information Technology and Programming and too `learning Developer` from the Czech Republic.
 
 - 🔧 I’m `"learning"` and `"working"` programming language -> `Java, PHP` and `little C#`.  
 - 📚 I’m `"learning"` and `"speaking"` `Czech, English and Deutsch`.
