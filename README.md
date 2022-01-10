@@ -18,7 +18,7 @@ Previous employments
 I like `JetBrains ToolBox` for programming. I using and learning:
 - ⚙ (JetBrains) [IntelliJ IDEA Ultimate](https://www.jetbrains.com/idea/) -> `Java` 
     - `(Java) + Spring boot framework + build tool Gradle` for `Web applications/Webs`.
-    - `(Java) + Spigot/SpigotAPI + build tool Gradle` for `Minecraft/Minecraft plugins`
+    - `(Java) + Spigot/SpigotAPI + build tool Gradle or Maven` for `Minecraft/Minecraft plugins`
 - ⚙ (JetBrains) [PHPStorm](https://www.jetbrains.com/phpstorm/) -> `PHP (+ HTML, JS, SCSS/SASS, CSS)`
 - ⚙ (JetBrains) [Rider](https://www.jetbrains.com/rider/) -> `C#`.
 
