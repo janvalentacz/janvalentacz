@@ -21,6 +21,9 @@ I like `JetBrains ToolBox` for programming. I using and learning:
 - ⚙ (JetBrains) [PHPStorm](https://www.jetbrains.com/phpstorm/) -> `PHP (+ HTML, JS, SCSS/SASS, CSS)`,
 - ⚙ (JetBrains) [Rider](https://www.jetbrains.com/rider/) -> `C#`.
 
+! THE PROGRAMS FROM JETBRAINS ARE NOT USED FOR COMMERCIAL PURPOSES, ONLY FOR NON-COMMERCIAL PURPOSES !
+! WHEN USING COMMERCIAL PROGRAMS FOR COMMERCIAL PURPOSES, THE PROGRAMS ARE PURCHASED !
+
 ## Contact for me:
 Contacts:
 - 💬 `Discord` -> Valentak#1111
