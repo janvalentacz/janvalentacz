@@ -29,4 +29,3 @@ Contacts:
 - 💬 `Email` -> valentak@valentak.cz
 
 
-I learn to work every day with the Java programming language with Spring boot - (Java) framework for web applications or Spigot (API) for Minecraft plugins, PHP (+ HTML, JS, SCSS / SASS, CSS) for web applications / websites and I learn a little C #.
