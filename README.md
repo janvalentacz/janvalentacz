@@ -18,7 +18,7 @@ Previous employments
 I like `JetBrains ToolBox` for programming. I using and learning:
 - ⚙ (JetBrains) [IntelliJ IDEA Ultimate](https://www.jetbrains.com/idea/) -> `Java`,
 - ⚙ (JetBrains) [Rider](https://www.jetbrains.com/rider/) -> `C#`,
-- ⚙ (JetBrains) [PHPStorm](https://www.jetbrains.com/phpstorm/) -> `PHP (+ HTML, JS, SCSS/SASS, CSS)`,
+- ⚙ (JetBrains) [PHPStorm](https://www.jetbrains.com/phpstorm/) -> `PHP (+ HTML, JS, SCSS/SASS, CSS)`
 
    - ! THE PROGRAMS FROM JETBRAINS ARE NOT USED FOR COMMERCIAL PURPOSES, ONLY FOR NON-COMMERCIAL PURPOSES ! 
    - ! WHEN USING COMMERCIAL PROGRAMS FOR COMMERCIAL PURPOSES, THE PROGRAMS ARE PURCHASED !
