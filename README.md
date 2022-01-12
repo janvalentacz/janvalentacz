@@ -1,6 +1,6 @@
 # Hello & Hi, `i'm Jan Valenta` and my `game nickname` is `Valentak`.
 #### I am a 16-year-old student of Information Technology and Programming and too learning Developer from the Czech Republic.
-- 🔧`I learn to work every day` programming language `Java` with `Spring boot - (Java) framework` for `Web applications` or `Spigot(API)` for `Minecraft plugins`, `PHP (+ HTML, JS, SCSS/SASS, CSS)` for `Web applications/Webs` and little `C#`.
+- 🔧`I learn to work every day` programming language `Java` with `Spring boot - (Java) framework` for `Web applications` or `Spigot(API)` for `Minecraft plugins`, I learn a little `C#` for `ALL` and `PHP (+ HTML, JS, SCSS/SASS, CSS)` for `Web applications/Webs` 
 - 📚I’m `"learning"` and `"speaking"` `Czech, English and Deutsch`.
 - 🏸I Play Badminton. I’m `Badminton player`. 
 - 📑 `GitHUB` -> https://gitHUB.com/janvalentacz
@@ -17,6 +17,7 @@ Previous employments
 ##  My favourite work equipment:
 I like `JetBrains ToolBox` for programming. I using and learning:
 - ⚙ (JetBrains) [IntelliJ IDEA Ultimate](https://www.jetbrains.com/idea/) -> `Java`,
+- ⚙ (JetBrains) [Rider](https://www.jetbrains.com/rider/) -> `C#`,
 - ⚙ (JetBrains) [PHPStorm](https://www.jetbrains.com/phpstorm/) -> `PHP (+ HTML, JS, SCSS/SASS, CSS)`,
 
    - ! THE PROGRAMS FROM JETBRAINS ARE NOT USED FOR COMMERCIAL PURPOSES, ONLY FOR NON-COMMERCIAL PURPOSES ! 
@@ -28,3 +29,4 @@ Contacts:
 - 💬 `Email` -> valentak@valentak.cz
 
 
+I learn to work every day with the Java programming language with Spring boot - (Java) framework for web applications or Spigot (API) for Minecraft plugins, PHP (+ HTML, JS, SCSS / SASS, CSS) for web applications / websites and I learn a little C #.
