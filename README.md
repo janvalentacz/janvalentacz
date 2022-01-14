@@ -26,6 +26,6 @@ I like `JetBrains ToolBox` for programming. I using and learning:
 ## Contact for me:
 Contacts:
 - 💬 `Discord` -> Valentak#1111
-- 💬 `Email` -> valentak@valentak.cz
+- 💬 `Email` -> valenta2jan@gmail.com
 
 
