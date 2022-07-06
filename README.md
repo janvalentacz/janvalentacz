@@ -2,7 +2,7 @@
 #### I am a 16-year-old high school student of information technology and programming and I am also `learning Software Developer` from the Czech Republic.
 - 🔧`I learn to work every day` programming language `Java` with `Spigot(API)` for `Minecraft plugins`.
 - 📚I’m `"learning"` and `"speaking"` `Czech, English and German`.
-- 🏸I Play Badminton. I’m `Badminton player`. 
+- 🏸I play Badminton. I’m `Badminton player`. 
 - 📑 `GitHUB` -> https://gitHUB.com/janvalentacz
 - 📑 `GitLAB` -> https://gitLAB.com/janvalentacz
 
