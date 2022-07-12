@@ -1,5 +1,5 @@
 # Hello & Hi, `i'm Jan Valenta`.
-#### I am a 16-year-old high school student of information technology and programming and I am also `learning Software Developer` from the Czech Republic.
+#### I am a 16-year-old high school student of information technology and programming and I am also `learning Developer` from the Czech Republic.
 - 🔧`I learn to work every day` programming language `Java` with `Spigot(API)` for `Minecraft plugins`.
 - 📚I’m `"learning"` and `"speaking"` `Czech, English and German`.
 - 🏸I play Badminton. I’m `Badminton player`. 
@@ -8,7 +8,7 @@
 
 ## Current or previous employments:
 Currect employments
-- 💻 Maybe - comming soon..
+- 💻 ? 
 
 Previous employments
 - 💻 `[2021-2021]` | Java Developer | FlashBack-MC.eu (Minecraft server - marawana28, kanál PlanB)
@@ -21,8 +21,6 @@ I like `JetBrains ToolBox (JetBrains IDE)` for programming. I using and learning
    - ! WHEN USING COMMERCIAL PROGRAMS FOR COMMERCIAL PURPOSES, THE PROGRAMS ARE PURCHASED !
 
 ## Contact for me:
-Contacts:
-- 💬 `Discord` -> Valentak#1111
-- 💬 `Email` -> valenta2jan@gmail.com
+- 💬 `Email` -> ᲼᲼᲼#3957
 
 
