@@ -11,8 +11,7 @@ Currect employments
 - 💻 Maybe - comming soon..
 
 Previous employments
-- 💻 Maybe - comming soon..
-
+- 💻 FlashBack-MC.eu [`2021-2021`] Java Developer (Minecraft server - marawana28, kanál PlanB)
 
 ##  My favourite work equipment:
 I like `JetBrains ToolBox (JetBrains IDE)` for programming. I using and learning:
